@@ -1,4 +1,4 @@
-# 0
+# Drop TCP Socket module
 
 This module allows one to drop TCP connections and can be usefull for killing `TIME-WAIT` sockets.
 
